@@ -1,3 +1,8 @@
+> **MRHAR:** this fork adds `habitat_casas/`, a multi-resident smart-home
+> simulation with virtual ambient sensors and CASAS-style event logs.
+> Setup and tutorial: [habitat_casas/README.md](habitat_casas/README.md).
+> Everything below is the original habitat-lab README.
+
 [![codecov](https://codecov.io/gh/facebookresearch/habitat-lab/branch/main/graph/badge.svg)](https://codecov.io/gh/facebookresearch/habitat-lab)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/facebookresearch/habitat-lab/blob/main/LICENSE)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/facebookresearch/habitat-lab)](https://github.com/facebookresearch/habitat-lab/releases/latest)
